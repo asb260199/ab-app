@@ -44,7 +44,7 @@ export default function Contact() {
     <div className="contact-container">
       <div className="contact-icons">
         <Link to="https://www.instagram.com/stocks.insights/" target="_blank" rel="noreferrer">
-          <img src="instagram.png" alt="Instagram" />
+          <img src="ab-app/public/instagram.png" alt="Instagram" />
         </Link>
         <Link to="https://www.linkedin.com/in/akshay-bodke-480603144" target="_blank" rel="noreferrer">
           <img src="linkedin.png" alt="LinkedIn" />
