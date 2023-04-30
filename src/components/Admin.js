@@ -39,7 +39,7 @@ export default function Admin() {
         //Show sign-in form if not logged in
         <form className='form-ad' onSubmit={handleSignIn}>
            <div className="logo-container">
-            <Link to='/'><img src="logo.png" alt="Logo" /></Link>
+            <Link to='/'><img src="/logo.png" alt="Logo" /></Link>
           </div>
           <h2 className='header-ad'>Sign In</h2>
           <div>
